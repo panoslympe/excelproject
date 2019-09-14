@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid indigo;
+    max-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+h1 {
+    color: red;
+}
+
