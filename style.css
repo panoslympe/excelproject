@@ -43,4 +43,22 @@ td {
 
 table {
     border-collapse: collapse;
+    text-align: center;
+    margin:auto;
+    
+}
+td{
+    padding: 5px 10px;
+}
+th {
+    background-color: rgb(196, 196, 196);
+}
+
+#upleft {
+    background-color: #fff;
+    border: 0px;
+}
+
+.highlight {
+    background-color: yellow;
 }
